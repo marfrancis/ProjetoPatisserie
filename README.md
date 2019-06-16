@@ -5,4 +5,4 @@ Criação do site , com e-commmerce de venda de cursos e apostilas
 
 Identidade Visual
 
-<img src="mr_patisserie3.png">
+<img src="MR_PATISSERIE3.png">
